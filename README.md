@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-@OSSDAO-ORG•AIRDROP-0x6e3ab33Fcb4585711883F5a5Fd0B8FaF11c0dd1b
-
 <!---
 Bimalavanya/Bimalavanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
